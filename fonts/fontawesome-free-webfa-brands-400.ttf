@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+        
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no" name="viewport"/>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,600,700&display=swap">
+
+    <link rel="stylesheet" href="/css/app.css?id=397d186ad6e244069a4c">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <meta name="google-site-verification" content="G9MZwlSkVLAUWbMO0zzT_DQlXQNbbST777BV0px7lAY"/>
+
+    <link rel="canonical" href="https://ssyoutube.com/en114/" />
+</head>
+
+<body class="min-vh-100">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W37RRTJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+    <nav class="topnav navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="https://ssyoutube.com/en114/">
+                 <img loading="lazy" src="https://ssyoutube.com/img/logo.svg" alt="">
+
+                ssyoutube
+            </a>
+            <!-- button triggering modal -->
+            <li class="nav-item dropdown" style="display: block;">
+                <span href="#" class="nav-link shad" data-toggle="dropdown" role="button" aria-expanded="true" style="color: white;" id="language-toggler">
+                    <i class="fa fa-list-ul"></i>
+                    <span class="nav-link-inner--text pl-1"> </span>
+                </span>
+                <div class="dropdown-menu dropdown-menu-right" id="language-dropdown">
+                    <div class="dropdown-menu-inner">
+                                                                                                                                    <a class="dropdown-item" href="/es6/" lang="es">Spanish</a>
+                                                                                                            <a class="dropdown-item" href="/de6/" lang="de">German</a>
+                                                                                                            <a class="dropdown-item" href="/ar5/" lang="ar">Arabic</a>
+                                                                                                            <a class="dropdown-item" href="/pt5/" lang="pt">Portugal</a>
+                                                                                                            <a class="dropdown-item" href="/ru5/" lang="ru">Russian</a>
+                                                                                                            <a class="dropdown-item" href="/id5/" lang="id">Indonesian</a>
+                                                                                                            <a class="dropdown-item" href="/tr5/" lang="tr">Turkish</a>
+                                                                                                            <a class="dropdown-item" href="/fr5/" lang="fr">Français</a>
+                                                                        </div>
+                </div>
+            </li>
+            <style>
+                .dropdown-menu:before {margin-left: 50px;}
+                .dropdown-item:hover {
+                    color: #fff;
+                    text-decoration: none;
+                    background-color: #08003a;
+                }
+                .fa-list-ul:before {
+                    content: "\f1ab";
+                }
+            </style>
+        </div>
+    </nav>
+</header>
+
+
+<div id="main" class="container" style="height: calc(100vh - 183px);">
+    <div class="row align-items-center" style="height:100%;">
+        <div class="alert alert-danger text-center w-100" >
+            <h2 class="display-3">404</h2>
+            <p class="display-5">No page found!</p>
+            <a class="alert-link" href="https://ssyoutube.com/en114/" lang="en">Return</a>
+        </div>
+    </div>
+</div>
+
+<footer class="bg-black pb-5 pt-4 mt-auto">
+    <div class="row justify-content-center text-center mb-3">
+        <div class="col-md-12">
+            <span class="d-block mt-3 text-gray">© 2022 YouTube Downloader,
+                made with
+                <i class="fas fa-heart text-danger"></i> by SSYoutube.
+            </span>
+        </div>
+    </div>
+    <div class="desktop-footer d-none d-md-flex container">
+        <div class="row justify-content-center w-100 color-white">
+            <div class="col-auto">
+                <p class="col-header-name">
+                                            <a href="https://ssyoutube.com/en1/youtube-video-downloader"
+                           lang="en">
+                            Youtube Downloader
+                        </a>
+                                    </p>
+            </div>
+            <div class="col-auto">
+                <p class="col-header-name">
+                                            <a href="https://ssyoutube.com/en2/download-from-tiktok"
+                           lang="en">TikTok Video Downloader</a>
+                                    </p>
+                <ul>
+                    <li>
+
+                                                    <a href="https://ssyoutube.com/en1/download-from-instagram"
+                               lang="en">Instagram Video Downloader</a>
+
+                                            </li>
+                    <li>
+                                                    <a href="https://ssyoutube.com/how-to-download-facebook-video"
+                               lang="en">Facebook Video Downloader</a>
+                                            </li>
+                    <li>
+                                                    <a href="https://ssyoutube.com/en2/download-from-twitter"
+                               lang="en">Twitter Video Downloader</a>
+                                            </li>
+                </ul>
+            </div>
+            <div class="col-auto">
+                <p class="col-header-name">
+                                            <a href="/about"
+                           lang="en">About us</a></p>
+                                <ul>
+                    <li>
+                                                    <a href="/en1/privacy-policy"
+                               lang="en">Privacy Policy</a>
+                                            </li>
+                    <li>
+                                                    <a href="/terms-of-service"
+                               lang="en">Terms of Service</a>
+                                            </li>
+                    <li>
+                                                    <a href="/en1/contact"
+                               lang="en">Contact</a>
+                                            </li>
+
+                </ul>
+            </div>
+            <div class="col-auto">
+                <p class="col-header-name">
+                    Partners
+                </p>
+                <ul>
+                    <li>
+                        <a href="https://savefrom.net/" target="_blank"
+                           lang="en">SaveFrom</a>
+                    </li>
+                    <li>
+                        <a href="https://savef.net/" target="_blank"
+                           lang="en">SaveFrom 2.0</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="mobile-footer d-md-none container">
+        <div class="accordion" id="accordion-footer">
+                            <div class="card">
+                    <div class="card-header">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                                data-target="#footerOne" aria-expanded="false" aria-controls="footerOne">
+                            <a href="https://ssyoutube.com/en1/youtube-video-downloader"
+                               lang="en">Youtube Downloader</a>
+                        </button>
+                    </div>
+                </div>
+                                        <div class="card">
+                    <div class="card-header">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                                data-target="#footerTwo" aria-expanded="false" aria-controls="footerTwo">
+                            <a href="https://ssyoutube.com/how-to-download-facebook-video"
+                               lang="en">Facebook Video Downloader</a>
+                        </button>
+                    </div>
+                </div>
+                                        <div class="card">
+                    <div class="card-header">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                                data-target="#footerThree" aria-expanded="false" aria-controls="footerThree">
+                            <a href="https://ssyoutube.com/en1/download-from-instagram"
+                               lang="en">Instagram Video Downloader</a>
+                        </button>
+                    </div>
+                </div>
+                                        <div class="card">
+                    <div class="card-header">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                                data-target="#footerFive" aria-expanded="false" aria-controls="footerFive">
+                            <a href="https://ssyoutube.com/en2/download-from-tiktok"
+                               lang="en">TikTok Video Downloader</a>
+                        </button>
+                    </div>
+
+                </div>
+                                        <div class="card">
+                    <div class="card-header">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                                data-target="#footerSix" aria-expanded="false" aria-controls="footerSix">
+                            <a href="https://ssyoutube.com/en2/download-from-twitter"
+                               lang="en">Twitter Video Downloader</a>
+                        </button>
+                    </div>
+                </div>
+                        <div class="card">
+                <div class="card-header">
+                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                            data-target="#footerSeven" aria-expanded="false" aria-controls="footerSeven">
+                                                    <a href="/about"
+                               lang="en">About us</a>
+                                            </button>
+                </div>
+                <div id="footerSeven" class="collapse" aria-labelledby="footerSeven" data-parent="#accordion-footer">
+                    <div class="card-body">
+                        <ul>
+                                                            <li>
+
+                                    <a href="/en1/privacy-policy"
+                                       lang="en">Privacy Policy</a>
+                                </li>
+                                                                                        <li>
+                                    <a href="/terms-of-service"
+                                       lang="en">Terms of Service</a>
+                                </li>
+                                                                                        <li>
+                                    <a href="/en1/contact"
+                                       lang="en">Contact</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                            data-target="#footerEight" aria-expanded="false" aria-controls="footerEight"
+                            style="color:#20c997">
+                        Partners
+                    </button>
+                </div>
+                <div id="footerEight" class="collapse" aria-labelledby="footerEight"
+                     data-parent="#accordion-footer">
+                    <div class="card-body">
+                        <ul>
+                            <li>
+                                <a href="https://savefrom.net/" target="_blank"
+                                   lang="en">SaveFrom</a>
+                            </li>
+                            <li>
+                                <a href="https://savef.net/" target="_blank"
+                                   lang="en">SaveFrom 2.0</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<script defer src="/js/app.js?id=7955e82c867f66805e9e"></script>
+
+<!-- Google Analytics -->
+<script defer>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-125802910-4', 'auto');
+
+    var clientId;
+    ga(function (tracker) {
+        clientId = tracker.get('clientId');
+    });
+    ga('set', 'dimension1', clientId);
+    ga('send', 'pageview', location.pathname);
+
+    ga('send', 'event', {
+        eventCategory: 'in-page-push',
+        eventAction: 'push-request',
+        eventLabel: 'TRUE'
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-125802910-4"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+    gtag('js', new Date());
+    gtag('config', 'UA-125802910-4');
+</script>
+<!-- End Google Analytics -->
+
+</body>
+</html>
